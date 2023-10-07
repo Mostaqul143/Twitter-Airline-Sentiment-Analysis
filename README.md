@@ -37,40 +37,40 @@ Initial Model:
 
 After Hyperparameter Tuning:
 
-Accuracy 73.3%, 
-Recall Score 64.1%
+   - Accuracy 73.3%, 
+   - Recall Score 64.1%
 
 **Decision Tree Classification:**
 
-Accuracy 68.5%
-Recall Score 58.1%
+   - Accuracy 68.5%
+   - Recall Score 58.1%
 
 **RandomForest Classification:**
 
 Initial Model: 
 
-Accuracy 76.5%
-Recall Score 64.2%
+   - Accuracy 76.5%
+   - Recall Score 64.2%
 
 After Hyperparameter Tuning: 
 
-Accuracy 77.0%
-Recall Score 64.9%
+   - Accuracy 77.0%
+   - Recall Score 64.9%
 
 **Support Vector Classification:**
 
-Accuracy 74.6%
-Recall Score 59.6%
+   - Accuracy 74.6%
+   = Recall Score 59.6%
 
 **K-Nearest Neighbors (KNN):**
 
-Accuracy 31.8%
-Recall Score 46.4%
+   - Accuracy 31.8%
+   - Recall Score 46.4%
 
 **XGBoost Classification:**
 
-Accuracy 76.3%
-Recall Score 65.0%
+   - Accuracy 76.3%
+   - Recall Score 65.0%
 
 These results indicate that after hyperparameter tuning, the Logistic Regression model achieved the highest accuracy of 73.3% and a recall score of 64.1%. 
 However, it's important to note that different models may have varying strengths and weaknesses, and the choice of the best model depends on the specific goals and trade-offs of the analysis.
