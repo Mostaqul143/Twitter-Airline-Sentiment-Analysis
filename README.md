@@ -32,8 +32,8 @@ The dataset used for the analysis contains information on various features such 
 
 Initial Model: 
 
-Accuracy 69.5%, 
-Recall Score 61.3%
+   -Accuracy 69.5%, 
+   -Recall Score 61.3%
 
 After Hyperparameter Tuning:
 
